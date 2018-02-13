@@ -1,0 +1,1 @@
+This app will have a totally of two components. One will be for the Litelite grid system and the other will be tieing back to the app.js. I will need the componet for litelite grid to define the gird boxes and how they like back to the app.js
